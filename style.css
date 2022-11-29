@@ -1,0 +1,28 @@
+.mainhd {
+  margin: 5px;
+}
+
+.hd {
+  margin-top: 75px;
+  color: white;
+  text-align: center;
+}
+
+
+
+.ifntt{
+  color: rgb(238, 46, 46);
+  size: 10dp;
+  text-align: center;
+  opacity: 50%;
+}
+
+
+
+.iftt{
+  color:rgb(105, 254, 91);
+  size: 10dp;
+  text-align:center;
+  opacity: 50%;
+
+}
